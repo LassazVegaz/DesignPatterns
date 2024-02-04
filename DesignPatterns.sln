@@ -22,7 +22,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgePattern", "BridgePatt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{3F5343A3-7532-4866-9164-D488DB2D655C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{B6B61962-449E-4337-B346-9372964F68F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{B6B61962-449E-4337-B346-9372964F68F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyWeightPattern", "FlyWeightPattern\FlyWeightPattern.csproj", "{BAA82135-CB42-401A-8D01-9FD78BEF894D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +64,10 @@ Global
 		{B6B61962-449E-4337-B346-9372964F68F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6B61962-449E-4337-B346-9372964F68F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6B61962-449E-4337-B346-9372964F68F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA82135-CB42-401A-8D01-9FD78BEF894D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA82135-CB42-401A-8D01-9FD78BEF894D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA82135-CB42-401A-8D01-9FD78BEF894D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA82135-CB42-401A-8D01-9FD78BEF894D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
